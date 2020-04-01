@@ -1,3 +1,5 @@
+currentBuild.displayName = "alex-myweb-#"+currentBuild.number
+
 pipeline{
     agent any
     
